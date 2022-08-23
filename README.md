@@ -39,7 +39,9 @@ make mrproper
 Example :
 
 ```
-Mercedes, not happy, Red Bull would be delighted. They've had shared a brilliant championship battle, but the championship can only be won by one. AND IT'S GOING DUTCH IN 2021, MAX VERSTAPPEN FOR THE FIRST TIME EVER IS THE CHAMPION OF THE WORLD!
+Mercedes, not happy, Red Bull would be delighted.
+They've had shared a brilliant championship battle, but the championship can only be won by one.
+AND IT'S GOING DUTCH IN 2021, MAX VERSTAPPEN FOR THE FIRST TIME EVER IS THE CHAMPION OF THE WORLD!
 ```
 
 2. The dictionary file should have one word per line and end with an empty line
