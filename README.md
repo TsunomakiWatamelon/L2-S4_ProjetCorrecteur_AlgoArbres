@@ -74,7 +74,8 @@ etait
 
 ### correcteur_0
 
-Run the program on the terminal in this manner : ```bash
+Run the program on the terminal in this manner : 
+```bash
 ./correcteur_0 [text_file] [dictionary_file]
 ```
 
@@ -90,7 +91,8 @@ foit
 
 ### correcteur_1
 
-Run the program on the terminal in this manner : ```bash
+Run the program on the terminal in this manner : 
+```bash
 ./correcteur_1 [text_file] [dictionary_file]
 ```
 
@@ -119,7 +121,9 @@ There is two additional functionalities that shows the BK tree generated for the
 
 1)The BK tree is visualized on the terminal
 
-Run the program in this manner : ```bash ./correcteur_2 -a [dictionary_file]
+Run the program in this manner : 
+```bash
+./correcteur_2 -a [dictionary_file]
 ```
 
 A BK tree will be shown like this :
@@ -162,5 +166,7 @@ Where the number represents the Levenshtein distance between the current word an
 
 2)The BK tree is drawn in a .pdf file and opens it on evince (evince and graphviz should be installed
 
-Run the program in this manner : ```bash ./correcteur_2 -g [dictionary_file]
+Run the program in this manner : 
+```bash
+./correcteur_2 -g [dictionary_file]
 ```
