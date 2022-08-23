@@ -162,7 +162,7 @@ apres
                 |--4--> wagon
 ```
 
-Where the number represents the Levenshtein distance between the current word and it's parent. The explanation the BK Tree is contructed is in the 3rd project report in the `doc` directory.
+Where the number represents the Levenshtein distance between the current word and it's parent. The explanation of how the BK Tree is contructed is in the 3rd project report in the `doc` directory.
 
 - The BK tree is drawn in a .pdf file and opens it on evince (evince and graphviz should be installed
 
