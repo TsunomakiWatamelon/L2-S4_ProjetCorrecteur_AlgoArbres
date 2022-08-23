@@ -12,10 +12,22 @@ To look for the most accurate correction possible, the two last programs looks f
 
 ## Compilation
 
-To compile these 3 programs, use the makefile located at the root directory of this repo with the terminal. (Unix systems only)
+- To compile these 3 programs, use the makefile located at the root directory of this repo with the terminal. (Unix systems only)
 
 ```bash
 make
+```
+
+- To delete .o files generated during the compilation
+
+```bash
+make clean
+```
+
+- To remove all files generated during the compilation (including the programs)
+
+```bash
+make mrproper
 ```
 
 ## Usage
