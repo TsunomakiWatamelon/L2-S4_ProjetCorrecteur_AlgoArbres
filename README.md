@@ -119,7 +119,7 @@ First, this program can be run the same way as the previous one. The difference 
 
 There is two additional functionalities that shows the BK tree generated for the dictionnary :
 
-1)The BK tree is visualized on the terminal
+- The BK tree is visualized on the terminal
 
 Run the program in this manner : 
 ```bash
@@ -164,7 +164,7 @@ apres
 
 Where the number represents the Levenshtein distance between the current word and it's parent. The explanation the BK Tree is contructed is in the 3rd project report in the `doc` directory.
 
-2)The BK tree is drawn in a .pdf file and opens it on evince (evince and graphviz should be installed
+- The BK tree is drawn in a .pdf file and opens it on evince (evince and graphviz should be installed
 
 Run the program in this manner : 
 ```bash
